@@ -8,7 +8,7 @@ if (index.name === "Susan") {
 
 https://learn.co/tracks/bootcamp-prep/javascript-fundamentals/programming-js-in-the-ide/practicing-conditional-statements#
 
-if (index.height === 74) {
+if (index.height === '74') {
     console.log("The height is correct")
 } else {
     console.log("Expected: 70, Received: "+index.height)
